@@ -62,7 +62,7 @@ src="https://img.shields.io/github/followers/surajsinghgore?logo=github&style=fo
 <a href="https://hashnode.com/@surajsinghgore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@surajsinghgore" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/surajthakurrs45?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="surajthakurrs45?hr_r=1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/surajsinghgore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="surajsinghgore" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/suraj2773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="suraj2773" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@suraj2773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="suraj2773" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/surajthakurrs45/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="surajthakurrs45/practice" height="30" width="40" /></a>
 
  </p>
