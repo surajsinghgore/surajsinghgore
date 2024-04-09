@@ -7,7 +7,7 @@ Fullstack web developer
 Hii i'm suraj singh from chandigarh india, I have 1.4+ year of experience in fullstack web development. I already created 25+ projects in different web technologies.
 
 *   🌍  I'm based in chandigarh , India
-*   🖥️  See my portfolio at [suraj singh](http://surajsingh.vercel.app)
+*   🖥️  See my portfolio at [suraj singh](http://www.surajsingh.online)
 *   ✉️  You can contact me at [surajthakurrs45@gmail.com](mailto:surajthakurrs45@gmail.com)
 *   🚀  I'm currently working on [sdcanteen](http://sdcanteen.up.railway.app)
 *   🧠  I'm learning typescript ,php ,nextjs 13.4
