@@ -4,7 +4,7 @@
 Fullstack web developer
 -----------------------
 
-Hii i'm suraj singh from chandigarh india, I have 1.4+ year of experience in fullstack web development. I already created 25+ projects in different web technologies.
+Hii i'm suraj singh from chandigarh india, I have 1.7+ year of project experience in fullstack web development. I already created 25+ projects in different web technologies.
 
 *   🌍  I'm based in chandigarh , India
 *   🖥️  See my portfolio at [suraj singh](http://www.surajsingh.online)
