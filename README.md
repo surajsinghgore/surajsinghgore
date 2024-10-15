@@ -9,8 +9,8 @@ Hii i'm suraj singh from chandigarh india, I have 1.7+ year of project experienc
 *   🌍  I'm based in chandigarh , India
 *   🖥️  See my portfolio at [suraj singh](http://www.surajsingh.online)
 *   ✉️  You can contact me at [surajthakurrs45@gmail.com](mailto:surajthakurrs45@gmail.com)
-*   🚀  I'm currently working on [sdcanteen](http://sdcanteen.up.railway.app)
-*   🧠  I'm learning typescript ,php ,nextjs 13.4
+*   🚀  I'm currently working on various projects
+*   🧠  I'm learning new tech stack
 *   🤝  I'm open to collaborating on nextjs, github, react
 *   ⚡  I love to watch cricket and learn new web technologies
 
