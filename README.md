@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="./banner.svg" width="100%" alt="Suraj Singh — Software Engineer, full-stack MERN and Next.js" />
 </p>
@@ -150,24 +149,6 @@
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=surajsinghgore&theme=tokyonight" alt="Stats" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=surajsinghgore&theme=tokyonight" alt="Most commit language" />
 </p>
-
-<p align="center">
-  <img width="98%" src="https://streak-stats.demolab.com?user=surajsinghgore&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=surajsinghgore&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity" alt="Activity graph" />
-</p>
-
----
-
-## 🐍 Watch the snake eat my contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/surajsinghgore/surajsinghgore/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/surajsinghgore/surajsinghgore/output/snake.svg" />
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/surajsinghgore/surajsinghgore/output/snake.svg" />
-</picture>
 
 ---
 
