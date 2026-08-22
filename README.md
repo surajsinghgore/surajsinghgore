@@ -1,185 +1,112 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=760&height=60&lines=Hi%2C+I'm+Suraj+Singh+%F0%9F%91%8B;Software+Engineer+%40+Evidano;Full-stack+%E2%80%A2+MERN+%E2%80%A2+Next.js;30%2B+projects+shipped+%F0%9F%9A%80" alt="Suraj Singh" />
-</h1>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Suraj Singh - Software Engineer, full-stack MERN and Next.js">
+  <title>Suraj Singh — Software Engineer</title>
 
-<p align="center">
-  <a href="https://www.surajsingh.online"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/surajsinghgore"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://surajsinghgore.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
-  <a href="mailto:surajsinghofficial19@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.surajsingh.online/resume.pdf"><img src="https://img.shields.io/badge/Résumé-F72585?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Résumé" /></a>
-</p>
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0e1a"/>
+      <stop offset="48%" stop-color="#141b31"/>
+      <stop offset="100%" stop-color="#0a0e1a"/>
+    </linearGradient>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=surajsinghgore&label=Profile+views&color=7C3AED&style=flat-square" alt="Profile views" />
-  <a href="https://github.com/surajsinghgore?tab=followers"><img src="https://img.shields.io/github/followers/surajsinghgore?style=flat-square&color=22D3EE&labelColor=1a1b27&logo=github" alt="Followers" /></a>
-  <a href="https://github.com/surajsinghgore?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsurajsinghgore&query=%24.public_repos&label=Repos&style=flat-square&color=F72585&labelColor=1a1b27&logo=github" alt="Public repos" /></a>
-</p>
+    <radialGradient id="blobA"><stop offset="0%" stop-color="#7c3aed" stop-opacity=".95"/><stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+    <radialGradient id="blobB"><stop offset="0%" stop-color="#22d3ee" stop-opacity=".9"/><stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+    <radialGradient id="blobC"><stop offset="0%" stop-color="#f472b6" stop-opacity=".8"/><stop offset="100%" stop-color="#f472b6" stop-opacity="0"/></radialGradient>
 
----
+    <linearGradient id="shine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#22d3ee"/>
+      <stop offset="30%"  stop-color="#a78bfa"/>
+      <stop offset="60%"  stop-color="#f472b6"/>
+      <stop offset="85%"  stop-color="#facc15"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+                        values="-1 0; 0 0; -1 0" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
 
-## ⚡ About me
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#22d3ee"/>
+      <stop offset="55%" stop-color="#a78bfa"/>
+      <stop offset="80%" stop-color="#f472b6"/>
+      <stop offset="100%" stop-color="#f472b6" stop-opacity="0"/>
+    </linearGradient>
 
-<img align="right" width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=surajsinghgore&theme=tokyonight" alt="Languages" />
+    <filter id="soften" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="58"/>
+    </filter>
 
-🚀 &nbsp;**Software Engineer at [Evidano](https://evidano.com)** — contract, remote
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="7" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
 
-💻 &nbsp;I build web applications end to end: interface, API, database, deployment
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#ffffff" stroke-opacity=".05" stroke-width="1"/>
+    </pattern>
 
-📦 &nbsp;**30+ projects** shipped · 22 written up with full case studies
+    <clipPath id="frame"><rect width="1200" height="340" rx="18"/></clipPath>
+  </defs>
 
-🎓 &nbsp;BCA from Punjab University · pursuing MCA at IGNOU
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="340" fill="url(#base)"/>
+    <rect width="1200" height="340" fill="url(#grid)"/>
 
-🌱 &nbsp;Currently going deeper on **TypeScript** and **AWS**
+    <g filter="url(#soften)">
+      <circle r="180" fill="url(#blobA)">
+        <animate attributeName="cx" values="220;400;180;220" dur="17s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="90;250;140;90"  dur="21s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="160" fill="url(#blobB)">
+        <animate attributeName="cx" values="980;760;1040;980" dur="19s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="250;80;200;250"   dur="15s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="140" fill="url(#blobC)">
+        <animate attributeName="cx" values="640;900;520;640" dur="23s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="300;60;280;300"  dur="18s" repeatCount="indefinite"/>
+      </circle>
+    </g>
 
-🤝 &nbsp;Open to collaborating on **Next.js**, **React** and **Node**
+    <g fill="#ffffff">
+      <circle cx="120"  cy="300" r="1.8" opacity=".7"><animate attributeName="cy" values="330;-10" dur="11s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.8;0" dur="11s" repeatCount="indefinite"/></circle>
+      <circle cx="330"  cy="300" r="1.4" opacity=".6"><animate attributeName="cy" values="350;-10" dur="14s" begin="1.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.7;0" dur="14s" begin="1.5s" repeatCount="indefinite"/></circle>
+      <circle cx="560"  cy="300" r="2.1" opacity=".5"><animate attributeName="cy" values="340;-10" dur="12s" begin="3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.6;0" dur="12s" begin="3s" repeatCount="indefinite"/></circle>
+      <circle cx="800"  cy="300" r="1.6" opacity=".7"><animate attributeName="cy" values="360;-10" dur="16s" begin="0.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.75;0" dur="16s" begin="0.8s" repeatCount="indefinite"/></circle>
+      <circle cx="1010" cy="300" r="1.3" opacity=".6"><animate attributeName="cy" values="330;-10" dur="13s" begin="2.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.7;0" dur="13s" begin="2.2s" repeatCount="indefinite"/></circle>
+      <circle cx="1130" cy="300" r="1.9" opacity=".5"><animate attributeName="cy" values="345;-10" dur="15s" begin="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.6;0" dur="15s" begin="4s" repeatCount="indefinite"/></circle>
+    </g>
 
-📍 &nbsp;Chandigarh, India — happy to work remote
+    <g stroke="#22d3ee" stroke-opacity=".55" stroke-width="2" fill="none">
+      <path d="M34 74V40h34"/><path d="M1166 266v34h-34"/>
+    </g>
 
-<br clear="right" />
+    <g font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" text-anchor="middle">
+      <text x="600" y="96" font-size="15" letter-spacing="7.5" fill="#8b96b8" font-weight="500">
+        SOFTWARE ENGINEER
+        <animate attributeName="opacity" values="0;1" dur="1.1s" fill="freeze"/>
+      </text>
 
----
+      <text x="600" y="182" font-size="82" font-weight="700" letter-spacing="3" fill="url(#shine)" filter="url(#glow)">
+        SURAJ SINGH
+        <animate attributeName="opacity" values="0;1" dur="1.3s" begin="0.2s" fill="freeze"/>
+      </text>
 
-## 🛠️ Tech stack
+      <path d="M330 214H870" stroke="url(#rule)" stroke-width="2.5" stroke-linecap="round"
+            stroke-dasharray="540" stroke-dashoffset="540">
+        <animate attributeName="stroke-dashoffset" from="540" to="0" dur="1.4s" begin="0.6s" fill="freeze"/>
+      </path>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,redux,nodejs,express,php,firebase,mongodb,mysql,socketio,java,c,cpp,aws,vercel,netlify,git,linux&perline=12" alt="Tech stack" />
-</p>
+      <text x="600" y="254" font-size="19" letter-spacing="2.6" fill="#c7d0ea" font-weight="500">
+        Full-stack &#183; MERN &#183; Next.js &#183; Node &#183; MongoDB
+        <animate attributeName="opacity" values="0;1" dur="1.2s" begin="0.9s" fill="freeze"/>
+      </text>
 
----
-
-## 🚀 Featured projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏥 Clinic Care</h3>
-      <p>Healthcare platform — doctor appointments, treatment tracking and PhonePe payments.</p>
-      <p>
-        <img src="https://img.shields.io/badge/MERN-00C58E?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      </p>
-      <a href="https://cliniccare.surajsingh.online"><img src="https://img.shields.io/badge/Live-7C3AED?style=flat-square&logo=vercel&logoColor=white" /></a>
-      <a href="https://github.com/surajsinghgore/ClinicCare"><img src="https://img.shields.io/badge/Code-1a1b27?style=flat-square&logo=github&logoColor=white" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💸 Dhanapatha</h3>
-      <p>Money transfer app — Stripe payments, wallets, transfers, transaction history, refunds.</p>
-      <p>
-        <img src="https://img.shields.io/badge/MERN-00C58E?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-      </p>
-      <a href="https://dhanapatha.surajsingh.online"><img src="https://img.shields.io/badge/Live-7C3AED?style=flat-square&logo=vercel&logoColor=white" /></a>
-      <a href="https://github.com/surajsinghgore/Dhanapatha-client"><img src="https://img.shields.io/badge/Code-1a1b27?style=flat-square&logo=github&logoColor=white" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🍽️ SD Canteen</h3>
-      <p>College e-canteen — online ordering, advance orders, special offers, ratings.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      </p>
-      <a href="https://sdcanteen.surajsingh.online"><img src="https://img.shields.io/badge/Live-7C3AED?style=flat-square&logo=vercel&logoColor=white" /></a>
-      <a href="https://github.com/surajsinghgore/sdcanteenworking"><img src="https://img.shields.io/badge/Code-1a1b27?style=flat-square&logo=github&logoColor=white" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📝 NoteShareHub</h3>
-      <p>Cloud notes with Google login, search, privacy controls and real-time updates.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-      </p>
-      <a href="http://notesharehub.surajsingh.online/"><img src="https://img.shields.io/badge/Live-7C3AED?style=flat-square&logo=vercel&logoColor=white" /></a>
-      <a href="https://github.com/surajsinghgore/NoteShareHub"><img src="https://img.shields.io/badge/Code-1a1b27?style=flat-square&logo=github&logoColor=white" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📋 Co Activity Manager</h3>
-      <p>Tracks student evening-activity records and fees for a college.</p>
-      <p>
-        <img src="https://img.shields.io/badge/MERN-00C58E?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-      </p>
-      <a href="https://coactivitymanager.surajsingh.online/"><img src="https://img.shields.io/badge/Live-7C3AED?style=flat-square&logo=vercel&logoColor=white" /></a>
-      <a href="https://github.com/surajsinghgore/coactivitymanagerclientUi"><img src="https://img.shields.io/badge/Code-1a1b27?style=flat-square&logo=github&logoColor=white" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💬 Live Chat</h3>
-      <p>Account-free chat rooms with private spaces, built on sockets.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      </p>
-      <a href="https://livechat.surajsingh.online/"><img src="https://img.shields.io/badge/Live-7C3AED?style=flat-square&logo=vercel&logoColor=white" /></a>
-      <a href="https://github.com/surajsinghgore/liveChat"><img src="https://img.shields.io/badge/Code-1a1b27?style=flat-square&logo=github&logoColor=white" /></a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://www.surajsingh.online/Projects"><img src="https://img.shields.io/badge/Browse_all_22_projects-22D3EE?style=for-the-badge&logoColor=white" alt="All projects" /></a>
-</p>
-
----
-
-## ✍️ Latest blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- Refreshed daily by .github/workflows/blog-posts.yml -->
-<!-- BLOG-POST-LIST:END -->
-
-<p align="right"><a href="https://surajsinghgore.hashnode.dev">→ more on Hashnode</a></p>
-
----
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surajsinghgore&theme=tokyonight" alt="Profile details" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=surajsinghgore&theme=tokyonight" alt="Stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=surajsinghgore&theme=tokyonight" alt="Most commit language" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://streak-stats.demolab.com?user=surajsinghgore&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=surajsinghgore&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity" alt="Activity graph" />
-</p>
-
----
-
-## 🐍 Watch the snake eat my contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/surajsinghgore/surajsinghgore/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/surajsinghgore/surajsinghgore/output/snake.svg" />
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/surajsinghgore/surajsinghgore/output/snake.svg" />
-</picture>
-
----
-
-## 🌐 Find me elsewhere
-
-<p align="center">
-  <a href="https://github.com/surajsinghgore"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/14568136/suraj-singh"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
-  <a href="https://leetcode.com/surajsinghgore"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://www.hackerrank.com/surajthakurrs45?hr_r=1"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
-  <a href="https://www.hackerearth.com/@suraj2773"><img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/surajthakurrs45/practice"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-  <a href="https://codesandbox.io/u/surajsinghgore"><img src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
+      <g>
+        <animate attributeName="opacity" values="0;1" dur="1.2s" begin="1.2s" fill="freeze"/>
+        <rect x="470" y="278" width="260" height="34" rx="17" fill="#ffffff" fill-opacity=".06" stroke="#22d3ee" stroke-opacity=".35"/>
+        <circle cx="497" cy="295" r="4.5" fill="#4ade80">
+          <animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/>
+        </circle>
+        <text x="609" y="301" font-size="14" letter-spacing="1.2" fill="#dbe4ff">Open to remote work</text>
+      </g>
+    </g>
+  </g>
+</svg>
