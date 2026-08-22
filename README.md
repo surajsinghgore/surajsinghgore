@@ -1,82 +1,162 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi ![]([https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif](http://surajsingh.vercel.app))My name is Suraj Singh
-===================================================================================================================================
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:08090c,50:2c333f,100:ffb057&height=180&section=header&text=Suraj%20Singh&fontColor=ffffff&fontSize=54&fontAlignY=34&desc=Software%20Engineer%20%C2%B7%20Full-stack%20MERN%20%2F%20Next.js&descAlignY=56&descSize=16" alt="" />
 
-Fullstack web developer
------------------------
-
-Hii i'm suraj singh from chandigarh india, I have 1.8+ year of project experience in fullstack web development. I already created 25+ projects in different web technologies.
-
-*   🌍  I'm based in chandigarh , India
-*   🖥️  See my portfolio at [suraj singh](http://www.surajsingh.online)
-*   ✉️  You can contact me at [surajthakurrs45@gmail.com](mailto:surajthakurrs45@gmail.com)
-*   🚀  I'm currently working on various projects
-*   🧠  I'm learning new tech stack
-*   🤝  I'm open to collaborating on nextjs, github, react
-*   ⚡  I love to watch cricket and learn new web technologies
-
-<a href="https://www.github.com/surajsinghgore" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/surajsinghgore?logo=github&style=for-the-badge&color=6366f1&labelColor=000000" /></a>
-                  
- ### Skills 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-<a href="https://filebase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Filebase" /></a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<p align="center">
+  <a href="https://www.surajsingh.online">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=FFB057&center=true&vCenter=true&width=560&lines=Software+Engineer+%40+Evidano;I+build+web+apps+end+to+end;MERN+%C2%B7+Next.js+%C2%B7+Node+%C2%B7+MongoDB;30%2B+projects+shipped+from+Chandigarh" alt="Typing SVG" />
+  </a>
 </p>
-                    
-### Socials
- <p align="left">
-  <a href="https://codesandbox.io/u/surajsinghgore" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a>
- <a href="https://discord.com/users/surajsinghgore" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
- <a href="https://www.facebook.com/surajsinghgore" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
- <a href="http://www.instagram.com/surajsinghgore" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
- <a href="https://www.linkedin.com/in/surajsinghgore" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
- <a href="https://www.stackoverflow.com/users/14568136/suraj-singh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/surajsinghgore" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-<a href="https://hashnode.com/@surajsinghgore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@surajsinghgore" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/surajthakurrs45?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="surajthakurrs45?hr_r=1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/surajsinghgore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="surajsinghgore" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@suraj2773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="suraj2773" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/surajthakurrs45/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="surajthakurrs45/practice" height="30" width="40" /></a>
 
- </p>
+<p align="center">
+  <a href="https://www.surajsingh.online"><img src="https://img.shields.io/badge/Portfolio-surajsingh.online-ffb057?style=for-the-badge&logoColor=white&labelColor=000000" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/surajsinghgore"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" /></a>
+  <a href="mailto:surajsinghofficial19@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" /></a>
+</p>
 
-### Badges
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=surajsinghgore&label=Profile%20views&color=ffb057&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/surajsinghgore?tab=followers"><img src="https://img.shields.io/github/followers/surajsinghgore?logo=github&style=flat-square&color=ffb057&labelColor=000000" alt="Followers" /></a>
+  <a href="https://github.com/surajsinghgore?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsurajsinghgore&query=%24.public_repos&label=Repos&style=flat-square&color=ffb057&labelColor=000000&logo=github" alt="Public repos" /></a>
+</p>
 
-<b>My GitHub Stats</b>
+---
 
+### 👨‍💻 About me
 
+```yaml
+name:      Suraj Singh Gore
+role:      Software Engineer @ Evidano   # contract · remote
+previously:[Shubpy Private Limited, Impact Mindz Tech Solutions]
+location:  Chandigarh, India
+experience:2+ years
+shipped:   30+ projects (22 written up with case studies)
+learning:  [TypeScript, AWS]
+education: [BCA · Punjab University, MCA · IGNOU (ongoing)]
+ask-me-about: [Next.js, React, Node, MongoDB, deploying things]
+```
 
-<a href="http://www.github.com/surajsinghgore"><img src="https://github-readme-streak-stats.herokuapp.com/?user=surajsinghgore&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+- 💼 &nbsp;Currently a **Software Engineer at [Evidano](https://evidano.com)** — contract, remote
+- 🧭 &nbsp;Previously **Frontend Developer @ Shubpy** and **Frontend → MERN Stack Developer @ Impact Mindz**
+- 🌍 &nbsp;Based in Chandigarh, India — open to remote work
+- 🤝 &nbsp;Happy to collaborate on **Next.js**, **React** and **Node** projects
+- ✉️ &nbsp;Reach me at **surajsinghofficial19@gmail.com**
+- ⚡ &nbsp;Cricket, and taking full-stack ideas from zero to deployed
 
-<a href="https://github.com/surajsinghgore" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajsinghgore&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
-<b>Top Repositories</b>
+### 🛠️ Tech stack
 
-<div width="100%" align="center"><a href="https://github.com/surajsinghgore/sdcanteen" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=surajsinghgore&repo=sdcanteen&title_color=3382ed&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+**Frontend**
+
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,redux&theme=dark)](https://skillicons.dev)
+
+**Backend & data**
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,php,firebase,mongodb,mysql,socketio&theme=dark)](https://skillicons.dev)
+
+**Languages**
+
+[![Languages](https://skillicons.dev/icons?i=java,c,cpp&theme=dark)](https://skillicons.dev)
+
+**Deploy & tooling**
+
+[![Tooling](https://skillicons.dev/icons?i=aws,vercel,netlify,heroku,git,github,linux,npm&theme=dark)](https://skillicons.dev)
+
+---
+
+### 🚀 Featured projects
+
+| Project | What it is | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Clinic Care** | Healthcare platform — appointments, treatment tracking, PhonePe payments | MERN · React · API | [Live](https://cliniccare.surajsingh.online) · [Code](https://github.com/surajsinghgore/ClinicCare) |
+| **Dhanapatha** | Money transfer app with Stripe, wallets, transfers and refunds | MERN · Node · API | [Live](https://dhanapatha.surajsingh.online) · [Code](https://github.com/surajsinghgore/Dhanapatha-client) |
+| **SD Canteen** | E-canteen for a college — ordering, offers, order tracking | Next.js · MERN | [Live](https://sdcanteen.surajsingh.online) · [Code](https://github.com/surajsinghgore/sdcanteenworking) |
+| **NoteShareHub** | Cloud notes with Google login, search and privacy controls | Next.js · MERN | [Live](http://notesharehub.surajsingh.online/) · [Code](https://github.com/surajsinghgore/NoteShareHub) |
+| **Co Activity Manager** | Student activity and fee records | MERN · React | [Live](https://coactivitymanager.surajsingh.online/) · [Code](https://github.com/surajsinghgore/coactivitymanagerclientUi) |
+| **Live Chat** | Account-free chat rooms | Next.js · Node | [Live](https://livechat.surajsingh.online/) · [Code](https://github.com/surajsinghgore/liveChat) |
+
+<p align="center"><a href="https://www.surajsingh.online/Projects"><b>→ Browse all 22 projects with case studies</b></a></p>
+
+---
+
+### ✍️ Latest blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- This list is refreshed daily by .github/workflows/blog-posts.yml -->
+<!-- BLOG-POST-LIST:END -->
+
+<p align="right"><a href="https://surajsinghgore.hashnode.dev">→ more on Hashnode</a></p>
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surajsinghgore&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surajsinghgore&theme=github" alt="Profile details" width="98%" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=surajsinghgore&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=surajsinghgore&theme=github" alt="Repos per language" width="41%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=surajsinghgore&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=surajsinghgore&theme=github" alt="Most commit language" width="41%" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=surajsinghgore&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=surajsinghgore&theme=github" alt="Stats" width="41%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=surajsinghgore&theme=github_dark&utcOffset=5.5" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=surajsinghgore&theme=github&utcOffset=5.5" alt="Productive time" width="41%" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=surajsinghgore&stroke=ffffff&background=00000000&ring=ffb057&fire=ffb057&currStreakNum=ffb057&currStreakLabel=ffb057&sideNums=ffffff&sideLabels=ffffff&dates=808080&hide_border=true" alt="GitHub streak" width="70%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surajsinghgore&bg_color=00000000&color=ffb057&line=ffb057&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20graph" alt="Contribution graph" width="98%" />
+</p>
+
+---
+
+### 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/surajsinghgore/surajsinghgore/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/surajsinghgore/surajsinghgore/output/snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/surajsinghgore/surajsinghgore/output/snake.svg" />
+</picture>
+
+---
+
+### 🌐 Where else to find me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/surajsinghgore" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
+  <a href="https://hashnode.com/@surajsinghgore" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" width="38" height="32" alt="Hashnode" /></a>
+  <a href="https://www.stackoverflow.com/users/14568136/suraj-singh" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" /></a>
+  <a href="https://www.leetcode.com/surajsinghgore" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="38" height="32" alt="LeetCode" /></a>
+  <a href="https://www.hackerrank.com/surajthakurrs45?hr_r=1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="38" height="32" alt="HackerRank" /></a>
+  <a href="https://www.hackerearth.com/@suraj2773" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" width="38" height="32" alt="HackerEarth" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/surajthakurrs45/practice" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="38" height="32" alt="GeeksforGeeks" /></a>
+  <a href="https://codesandbox.io/u/surajsinghgore" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" alt="CodeSandbox" /></a>
+  <a href="https://discord.com/users/surajsinghgore" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev quote" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb057,50:2c333f,100:08090c&height=120&section=footer" alt="" />
