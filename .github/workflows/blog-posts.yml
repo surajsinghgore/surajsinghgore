@@ -1,0 +1,24 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pull posts from the Hashnode feed
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://surajsinghgore.hashnode.dev/rss.xml"
+          max_post_count: 4
+          template: "- [$title]($url) &nbsp;—&nbsp; <sub>$date</sub>$newline"
+          date_format: "mmmm d, yyyy"
+          commit_message: "chore: refresh latest blog posts"
