@@ -132,8 +132,7 @@
 
 ## ✍️ Latest blog posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- Refreshed daily by .github/workflows/blog-posts.yml -->
+<!-- BLOG-POST-LIST:START -->- [Top freelancing websites which help you to make money at home using web development](https://surajsinghgore.hashnode.dev/top-freelancing-websites-which-help-you-to-make-money-at-home-using-web-development) &nbsp;—&nbsp; <sub>July 19, 2023</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://surajsinghgore.hashnode.dev">→ more on Hashnode</a></p>
